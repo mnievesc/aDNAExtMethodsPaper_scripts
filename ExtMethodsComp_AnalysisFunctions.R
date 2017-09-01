@@ -1,5 +1,5 @@
 ##########################################################################################
-###### Functions for analysis of extraction methods paper Nieves-Colon et al (2017)
+###### Functions for paper performing comparative analysis of aDNA extraction methods
 ###### For sourcing into Rstudio
 ###### Written 5/19-27/2017 by M. Nieves-Colon
 ##########################################################################################
