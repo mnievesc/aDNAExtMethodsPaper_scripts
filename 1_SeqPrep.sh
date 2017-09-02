@@ -14,7 +14,7 @@
 ## All the sample folders must be in a main folder (Eg. HiSeqRun_June2015) and the script must also be placed in this main folder.
 ## Make sure the read files are named in the same format as mentioned here and below in the script (Eg. AD58_L001_R1_001.fastq.gz and AD58_L001_R2_001.fastq.gz). If necessary, modify the file names OR modify the script. 
 
-## Usage on ASU Saguaro cluster: sbatch 1_SeqPrep_v4_hiseq.sh
+## Usage on ASU Saguaro cluster: sbatch 1_SeqPrep.sh
 
 ## Necessary module
 module load seqprep/jan2017
