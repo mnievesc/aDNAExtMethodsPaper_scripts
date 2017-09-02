@@ -1,2 +1,2 @@
 # aDNAExtMethods
-Rscripts used to perform analyses comparing for paper comparing ancient DNA extraction methods available on: 
+Scripts used to perform analyses for paper comparing ancient DNA extraction methods. Manuscript currently available on: 
