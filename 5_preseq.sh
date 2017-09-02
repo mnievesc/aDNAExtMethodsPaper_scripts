@@ -32,7 +32,7 @@ grep "DISTINCT READS" *txt
 
 
 ## Run extrapolation analysis only for two samples with highest amount of reads
-array=("PI-67-D.ds" "PI-67-H.ds" "aGB7-H.ds")
+array=("PI-67-D.ds" "PI-67-H.ds" "aGB7-D.ds" "aGB7-H.ds")
 
 for i in "${array[@]}"
   do
